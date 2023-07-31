@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name='cd_bootcamp2',
     version='0.0.1',
-    author='Rosebud',
+    author='Rosebu257',
     author_email='Gd5_Pp@protonmail.me',
     description='Utilities for use in bootcamp.',
     long_description=long_description,
